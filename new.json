@@ -1,0 +1,10 @@
+{
+    "person": {
+        "name": "Natallia",
+        "lastName": "Smolearova",
+        "middleName": "Vasilevna",
+        "age": 32
+    },
+    "pet": 1,
+    "salary": 500
+}
