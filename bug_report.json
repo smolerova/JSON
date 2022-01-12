@@ -1,6 +1,6 @@
 {
    "ID":"12",
-   "Summary":"The Familyapplication allow the input of letters in the field Birth Day",
+   "Summary":"The Familyapplication allows the input of letters in the field Birth Day",
    "Severity":"Major",
    " StepsToReproduce":[
       "Start the Family application",
@@ -9,5 +9,5 @@
       "Try to input letters in the field Birth Day"
    ],
    "ExpectedResult":"Letters are not entered in the field Birth Day",
-   "Actual Result":"The field Birth Day allow input of letters"
+   "Actual Result":"The field Birth Day allows input of letters"
 }
