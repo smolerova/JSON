@@ -1,10 +1,10 @@
 {
-    "favorites": {
+    "favourites": {
         "favoriteMovie": "The Shawshank Redemption",
         "favoriteSeries": "Criminal Minds",
         "favoriteFood": "Grilled Meat",
         "favoriteSeason": "Summer"
-    }
+    },
     "wishList": {
         "Country": "Portugal"
     }
